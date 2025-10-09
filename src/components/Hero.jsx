@@ -16,11 +16,11 @@ const Hero = ({ darkMode }) => {
               Hi, I'm <span className="bg-gradient-to-r from-blue-500 to-purple-600 bg-clip-text text-transparent">Mahendar Byra</span>
             </h1>
             <p className="text-xl lg:text-2xl text-gray-400">
-              Data Scientist & Full-Stack Developer
+              Data Scientist & Full-Stack Developer & AI Enthusiast
             </p>
             <p className={`text-lg ${darkMode ? 'text-gray-400' : 'text-gray-600'} max-w-2xl`}>
-              Final-year M.Tech student passionate about AI, ML, and building scalable software solutions. 
-              Currently interning at Marvell Technologies, working with cutting-edge network systems.
+              I’m a Python Developer at CITCO, passionate about building scalable, intelligent, and efficient software solutions. <br></br>
+              With a background in M.Tech (Integrated) in Computer Science and hands-on experience in AI, ML, and full-stack development, I love solving complex real-world problems through clean code and smart design.
             </p>
             <div className="flex flex-wrap gap-4">
               <a href="#contact" className="px-8 py-3 bg-gradient-to-r from-blue-500 to-purple-600 rounded-lg hover:shadow-lg hover:scale-105 transition-all duration-300 font-medium">
