@@ -43,6 +43,14 @@ const projects = [
     highlight: 'Low-Level'
   },
   {
+    title: 'Machine Translation(English-Telugu)',
+    category: 'NLP',
+    description: 'Built an English-to-Telugu translation system using MarianMT and compared results with custom-trained models. Developed a statistical machine translation model using OpenNMT toolkit to analyze translation quality.',
+    tech: ['Tensorflow', 'Transformers', 'OpenNMT'],
+    github: 'https://github.com/MahendarByra/Machine_Traanslation',
+    highlight: 'Translation Model'
+  },
+  {
     title: 'MySQL Compiler',
     category: 'Compiler Design',
     description: 'Full-featured compiler implementing all major phases for SQL subset using Lex and Yacc.',
