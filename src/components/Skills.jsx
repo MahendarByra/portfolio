@@ -9,9 +9,10 @@ const Skills = ({ darkMode }) => {
       "Computer Vision",
       "LLMs",
       "Transformers",
+      "LangChain",
     ],
-    Programming: ["Python", "Java", "C++", "C", "JavaScript", "Bash"],
-    Frameworks: ["TensorFlow", "PyTorch", "React.js", "Node.js", "Express.js"],
+    Programming: ["Python", "Java", "C++", "C", "JavaScript", "Bash", "C#"],
+    Frameworks: ["TensorFlow", "PyTorch", "React.js", "Node.js", "Express.js", "Fast API"],
     "Data Engineering": [
       "Apache Spark",
       "Apache Airflow",
